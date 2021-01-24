@@ -308,8 +308,7 @@ body:       |
                 <p>
                 <ul>
                 <li>All <b>Readings</b> are due at <b>noon Saturday</b> of the assigned week.</li>
-                <li>All <b>Proposals</b> are due at <b>noon Sunday</b> of the assigned week.</li>
-                <li>All <b>Progress Reports</b> are due at <b>noon Sunday</b> of the assigned week.</li>
+                <li>All <b>Proposals</b> and <b>Progress Reports</b> are due at <b>midnight Thursday</b> of the assigned week.</li>
                 <li>All <b>Projects</b> are due when they are <b>presented</b> in class.</li>
                 </ul>
                 </p>

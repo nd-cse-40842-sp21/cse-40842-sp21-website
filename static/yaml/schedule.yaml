@@ -21,14 +21,11 @@
         items:
           - name:       Presentations 01
             link:       presentation01.html
+        assignment:     Proposal 01
 
       - date:           Sat 02/13
         topics:         Individual Reflection
         assignment:     Writing 01
-
-      - date:           Sun 02/14
-        topics:         Group Work
-        assignment:     Proposal 01
 
 - name:     "Game Hackers"
   days:
@@ -41,14 +38,11 @@
         items:
           - name:       Presentations 02
             link:       presentation02.html
+        assignment:     Progress 01
 
       - date:           Sat 02/20
         topics:         Individual Reflection
         assignment:     Writing 03
-
-      - date:           Sun 02/21
-        topics:         Group Work
-        assignment:     Progress 01
 
 - name:     "Project 01"
   days:
@@ -81,18 +75,15 @@
   days:
       - date:           Tue 03/02
         topics:         "Mini-Break"
+        assignment:     Reading 05
 
       - date:           Thu 03/04
         topics:         "Beating the Averages, The Hundred-Year Language, Revenge of the Nerds"
-        assignment:     Reading 05
+        assignment:     Proposal 02
 
       - date:           Sat 03/06
         topics:         Individual Reflection
         assignment:     Writing 05
-
-      - date:           Sun 03/07
-        topics:         Group Work
-        assignment:     Proposal 02
 
 - name:     Wealth Creation
   days:
@@ -105,14 +96,11 @@
         items:
           - name:       Presentations 04
             link:       presentation04.html
+        assignment:     Progress 02
 
       - date:           Sat 03/13
         topics:         Individual Reflection
         assignment:     Writing 06
-
-      - date:           Sun 03/14
-        topics:         Group Work
-        assignment:     Progress 02
 
 - name:     "Project 02"
   days:
@@ -152,14 +140,11 @@
         items:
           - name:       Presentations 06
             link:       presentation06.html
+        assignment:     Proposal 03
 
       - date:           Sat 04/03
         topics:         Individual Reflection
         assignment:     Writing 08
-
-      - date:           Mon 04/05
-        topics:         Group Work
-        assignment:     Proposal 03
 
 
 - name:     Economics, Sustainability
@@ -173,14 +158,11 @@
         items:
           - name:       Presentations 07
             link:       presentation07.html
+        assignment:     Progress 03
 
       - date:           Sat 04/10
         topics:         Individual Reflection
         assignment:     Writing 09
-
-      - date:           Sun 04/11
-        topics:         Group Work
-        assignment:     Progress 03
 
 - name:     "Project 03"
   days:
@@ -220,14 +202,11 @@
         items:
           - name:       Presentations 09
             link:       presentation09.html
+        assignment:     Proposal 04
 
       - date:           Sat 05/01
         topics:         Individual Reflection
         assignment:     Writing 11
-
-      - date:           Sun 05/02
-        topics:         Group Work
-        assignment:     Proposal 04
 
 - name:     "Revolution OS"
   days:
@@ -236,9 +215,6 @@
 
       - date:           Thu 05/06
         topics:         "Hackathon"
-
-      - date:           Sun 05/09
-        topics:         Group Work
         assignment:     Progress 04
 
 - name:     "Project 04"
