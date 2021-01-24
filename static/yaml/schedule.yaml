@@ -19,13 +19,13 @@
       - date:           Thu 02/11
         topics:         ""
         items:
-          - name:       Presentations 01
-            link:       presentation01.html
+          - name:       Presentations
+            link:       presentations.html
         assignment:     Proposal 01
 
       - date:           Sat 02/13
         topics:         Individual Reflection
-        assignment:     Writing 01
+        assignment:     Writing 02
 
 - name:     "Game Hackers"
   days:
@@ -36,8 +36,8 @@
       - date:           Thu 02/18
         topics:         ""
         items:
-          - name:       Presentations 02
-            link:       presentation02.html
+          - name:       Presentations
+            link:       presentations.html
         assignment:     Progress 01
 
       - date:           Sat 02/20
@@ -46,10 +46,10 @@
 
 - name:     "Project 01"
   days:
-      - date:           Tue 02/16
+      - date:           Tue 02/23
         topics:         Hackathon
 
-      - date:           Thu 02/18
+      - date:           Thu 02/25
         topics:         Presentations
         assignment:     Project 01
 
@@ -57,57 +57,56 @@
 
 - name:     Nerds as Hackers
   days:
-      - date:           Tue 02/23
-        topics:         "Why Nerds Are Unpopular, Hackers and Painters, What You Can't Say, Good Bad Attitude"
+      - date:           Tue 03/02
+        topics:         "Mini-Break"
         assignment:     Reading 04
 
-      - date:           Thu 02/25
-        topics:         ""
-        items:
-          - name:       Presentations 03
-            link:       presentation03.html
+      - date:           Thu 03/04
+        topics:         "Why Nerds Are Unpopular, Hackers and Painters, What You Can't Say, Good Bad Attitude"
 
-      - date:           Sat 02/27
+      - date:           Sat 03/06
         topics:         Individual Reflection
         assignment:     Writing 04
 
 - name:     Programming Languages
   days:
-      - date:           Tue 03/02
-        topics:         "Mini-Break"
+      - date:           Tue 03/09
+        topics:         "Beating the Averages, The Hundred-Year Language, Revenge of the Nerds"
         assignment:     Reading 05
 
-      - date:           Thu 03/04
-        topics:         "Beating the Averages, The Hundred-Year Language, Revenge of the Nerds"
+      - date:           Thu 03/11
+        items:
+          - name:       Presentations
+            link:       presentations.html
         assignment:     Proposal 02
 
-      - date:           Sat 03/06
+      - date:           Sat 03/13
         topics:         Individual Reflection
         assignment:     Writing 05
 
 - name:     Wealth Creation
   days:
-      - date:           Tue 03/09
+      - date:           Tue 03/16
         topics:         "The Other Road Ahead, How To Make Wealth, Mind the Gap"
         assignment:     Reading 06
 
-      - date:           Thu 03/11
+      - date:           Thu 03/18
         topics:         ""
         items:
-          - name:       Presentations 04
-            link:       presentation04.html
+          - name:       Presentations
+            link:       presentations.html
         assignment:     Progress 02
 
-      - date:           Sat 03/13
+      - date:           Sat 03/20
         topics:         Individual Reflection
         assignment:     Writing 06
 
 - name:     "Project 02"
   days:
-      - date:           Tue 03/16
+      - date:           Tue 03/23
         topics:         Hackathon
 
-      - date:           Thu 03/18
+      - date:           Thu 03/25
         topics:         Presentations
         assignment:     Project 02
 
@@ -115,63 +114,53 @@
 
 - name:     "History, Manifesto"
   days:
-      - date:           Tue 03/23
+      - date:           Tue 03/30
         topics:         "A Brief History of Hackerdom, The Cathedral and the Bazaar"
         assignment:     Reading 07
 
-      - date:           Thu 03/25
+      - date:           Thu 04/01
         topics:         ""
         items:
-          - name:       Presentations 05
-            link:       presentation05.html
+          - name:       Presentations
+            link:       presentations.html
 
-      - date:           Sat 03/26
+      - date:           Sat 04/03
         topics:         Individual Reflection
         assignment:     Writing 07
 
 - name:     Customs, Culture
   days:
-      - date:           Tue 03/30
+      - date:           Tue 04/06
         topics:        "Homesteading the Noosphere"
         assignment:     Reading 08
 
-      - date:           Thu 04/01
+      - date:           Thu 04/08
         topics:         ""
         items:
-          - name:       Presentations 06
-            link:       presentation06.html
+          - name:       Presentations
+            link:       presentations.html
         assignment:     Proposal 03
 
-      - date:           Sat 04/03
+      - date:           Sat 04/10
         topics:         Individual Reflection
         assignment:     Writing 08
 
 
 - name:     Economics, Sustainability
   days:
-      - date:           Tue 04/06
+      - date:           Tue 04/13
         topics:         "The Magic Cauldron"
         assignment:     Reading 09
 
-      - date:           Thu 04/08
+      - date:           Thu 04/15
         topics:         ""
         items:
-          - name:       Presentations 07
-            link:       presentation07.html
-        assignment:     Progress 03
+          - name:       Presentations
+            link:       presentations.html
 
-      - date:           Sat 04/10
+      - date:           Sat 04/17
         topics:         Individual Reflection
         assignment:     Writing 09
-
-- name:     "Project 03"
-  days:
-      - date:           Tue 04/13
-        topics:         Hackathon
-
-      - date:           Thu 04/15
-        topics:         Presentations
-        assignment:     Project 03
 
 - name:     "Book 04: Just for Fun"
 
@@ -184,12 +173,14 @@
       - date:           Thu 04/22
         topics:         ""
         items:
-          - name:       Presentations 08
-            link:       presentation08.html
+          - name:       Presentations
+            link:       presentations.html
+        assignment:     Progress 03
 
       - date:           Sat 04/24
         topics:         Individual Reflection
         assignment:     Writing 10
+
 
 - name:     "Linux Revolution"
   days:
@@ -200,9 +191,8 @@
       - date:           Thu 04/29
         topics:         ""
         items:
-          - name:       Presentations 09
-            link:       presentation09.html
-        assignment:     Proposal 04
+          - name:       Presentations
+            link:       presentations.html
 
       - date:           Sat 05/01
         topics:         Individual Reflection
@@ -215,9 +205,8 @@
 
       - date:           Thu 05/06
         topics:         "Hackathon"
-        assignment:     Progress 04
 
-- name:     "Project 04"
+- name:     "Project 03"
   days:
       - date:           Tue 05/11
         topics:         Presentations

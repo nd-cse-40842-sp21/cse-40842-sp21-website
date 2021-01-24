@@ -166,7 +166,7 @@ body:       |
                 {% end %}
                     <td class="text-center text-strong"><tt>{{ day['date'] }}</tt></td>
                     <td class="text-strong">
-                    {% if 'Presentations' in day.get('topics', '') or 'Break' in day.get('topics', '') or day.get('topics', '').startswith('Group') or day.get('assignment', '').startswith('Writing') %}
+                    {% if 'Presentations' in day.get('topics', '') or 'Break' in day.get('topics', '') or day.get('topics', '').startswith('Hackathon') or day.get('assignment', '').startswith('Writing') %}
                     <i class="text-muted">{{ day.get('topics', '') }}</i>
                     {% else %}
                     {{ day.get('topics', '') }}
@@ -229,19 +229,19 @@ body:       |
             <tbody>
                 <tr>
                     <td><span class="label label-primary">Readings</span> Weekly reading assignments and corresponding writing prompts.</td>
-                    <td class="text-center">10 &times; 5</td>
+                    <td class="text-center">10 &times; 6</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-caution">Projects</span> Periodic group projects.</td>
-                    <td class="text-center">4 &times; 45</td>
+                    <td><span class="label label-caution">Projects</span> Collaborative group projects.</td>
+                    <td class="text-center">45, 45, 60</td>
                 </tr>
                 <tr>
                     <td><span class="label label-danger">Presentation</span> Individual presentations.</td>
-                    <td class="text-center">2 &times; 25</td>
+                    <td class="text-center">2 &times; 30</td>
                 </tr>
                 <tr>
                     <td><span class="label label-success">Participation</span> Regular class attendation and contribution to course community.</td>
-                    <td class="text-center">20</td>
+                    <td class="text-center">30</td>
                 </tr>
                 <tr>
                     <td class="text-strong text-right">Total</td>
