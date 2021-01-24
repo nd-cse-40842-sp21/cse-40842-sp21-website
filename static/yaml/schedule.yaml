@@ -21,11 +21,11 @@
         items:
           - name:       Presentations 01
             link:       presentation01.html
-      
+
       - date:           Sat 02/13
         topics:         Individual Reflection
         assignment:     Writing 01
-      
+
       - date:           Sun 02/14
         topics:         Group Work
         assignment:     Proposal 01
@@ -41,11 +41,11 @@
         items:
           - name:       Presentations 02
             link:       presentation02.html
-      
+
       - date:           Sat 02/20
         topics:         Individual Reflection
         assignment:     Writing 03
-      
+
       - date:           Sun 02/21
         topics:         Group Work
         assignment:     Progress 01
@@ -72,7 +72,7 @@
         items:
           - name:       Presentations 03
             link:       presentation03.html
-      
+
       - date:           Sat 02/27
         topics:         Individual Reflection
         assignment:     Writing 04
@@ -85,11 +85,11 @@
       - date:           Thu 03/04
         topics:         "Beating the Averages, The Hundred-Year Language, Revenge of the Nerds"
         assignment:     Reading 05
-      
+
       - date:           Sat 03/06
         topics:         Individual Reflection
         assignment:     Writing 05
-      
+
       - date:           Sun 03/07
         topics:         Group Work
         assignment:     Proposal 02
@@ -105,11 +105,11 @@
         items:
           - name:       Presentations 04
             link:       presentation04.html
-      
+
       - date:           Sat 03/13
         topics:         Individual Reflection
         assignment:     Writing 06
-      
+
       - date:           Sun 03/14
         topics:         Group Work
         assignment:     Progress 02
@@ -136,7 +136,7 @@
         items:
           - name:       Presentations 05
             link:       presentation05.html
-      
+
       - date:           Sat 03/26
         topics:         Individual Reflection
         assignment:     Writing 07
@@ -146,7 +146,7 @@
       - date:           Tue 03/30
         topics:        "Homesteading the Noosphere"
         assignment:     Reading 08
-      
+
       - date:           Thu 04/01
         topics:         ""
         items:
@@ -156,13 +156,13 @@
       - date:           Sat 04/03
         topics:         Individual Reflection
         assignment:     Writing 08
-      
+
       - date:           Mon 04/05
         topics:         Group Work
         assignment:     Proposal 03
 
 
-- name:     Economics, Sustainability 
+- name:     Economics, Sustainability
   days:
       - date:           Tue 04/06
         topics:         "The Magic Cauldron"
@@ -173,11 +173,11 @@
         items:
           - name:       Presentations 07
             link:       presentation07.html
-      
+
       - date:           Sat 04/10
         topics:         Individual Reflection
         assignment:     Writing 09
-      
+
       - date:           Sun 04/11
         topics:         Group Work
         assignment:     Progress 03
@@ -204,7 +204,7 @@
         items:
           - name:       Presentations 08
             link:       presentation08.html
-      
+
       - date:           Sat 04/24
         topics:         Individual Reflection
         assignment:     Writing 10
@@ -220,11 +220,11 @@
         items:
           - name:       Presentations 09
             link:       presentation09.html
-      
+
       - date:           Sat 05/01
         topics:         Individual Reflection
         assignment:     Writing 11
-      
+
       - date:           Sun 05/02
         topics:         Group Work
         assignment:     Proposal 04
@@ -233,10 +233,10 @@
   days:
       - date:           Tue 05/04
         topics:         "Revolution OS"
-      
+
       - date:           Thu 05/06
         topics:         "Hackathon"
-      
+
       - date:           Sun 05/09
         topics:         Group Work
         assignment:     Progress 04
