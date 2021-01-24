@@ -1,0 +1,248 @@
+- name:     "Book 01: Hackers - Heroes of the Computer Revolution"
+
+- name:     "True Hackers"
+  days:
+      - date:           Thu 02/04
+        topics:         "Cambridge: The Fifties and Sixties"
+        assignment:     Reading 01
+
+      - date:           Sat 02/06
+        topics:         Individual Reflection
+        assignment:     Writing 01
+
+- name:     "Hardware Hackers"
+  days:
+      - date:           Tue 02/09
+        topics:         "Northern California: The Seventies"
+        assignment:     Reading 02
+
+      - date:           Thu 02/11
+        topics:         ""
+        items:
+          - name:       Presentations 01
+            link:       presentation01.html
+      
+      - date:           Sat 02/13
+        topics:         Individual Reflection
+        assignment:     Writing 01
+      
+      - date:           Sun 02/14
+        topics:         Group Work
+        assignment:     Proposal 01
+
+- name:     "Game Hackers"
+  days:
+      - date:           Tue 02/16
+        topics:         "The Sierras: The Eighties"
+        assignment:     Reading 03
+
+      - date:           Thu 02/18
+        topics:         ""
+        items:
+          - name:       Presentations 02
+            link:       presentation02.html
+      
+      - date:           Sat 02/20
+        topics:         Individual Reflection
+        assignment:     Writing 03
+      
+      - date:           Sun 02/21
+        topics:         Group Work
+        assignment:     Progress 01
+
+- name:     "Project 01"
+  days:
+      - date:           Tue 02/16
+        topics:         Hackathon
+
+      - date:           Thu 02/18
+        topics:         Presentations
+        assignment:     Project 01
+
+- name:     "Book 02: Hackers & Painters"
+
+- name:     Nerds as Hackers
+  days:
+      - date:           Tue 02/23
+        topics:         "Why Nerds Are Unpopular, Hackers and Painters, What You Can't Say, Good Bad Attitude"
+        assignment:     Reading 04
+
+      - date:           Thu 02/25
+        topics:         ""
+        items:
+          - name:       Presentations 03
+            link:       presentation03.html
+      
+      - date:           Sat 02/27
+        topics:         Individual Reflection
+        assignment:     Writing 04
+
+- name:     Programming Languages
+  days:
+      - date:           Tue 03/02
+        topics:         "Mini-Break"
+
+      - date:           Thu 03/04
+        topics:         "Beating the Averages, The Hundred-Year Language, Revenge of the Nerds"
+        assignment:     Reading 05
+      
+      - date:           Sat 03/06
+        topics:         Individual Reflection
+        assignment:     Writing 05
+      
+      - date:           Sun 03/07
+        topics:         Group Work
+        assignment:     Proposal 02
+
+- name:     Wealth Creation
+  days:
+      - date:           Tue 03/09
+        topics:         "The Other Road Ahead, How To Make Wealth, Mind the Gap"
+        assignment:     Reading 06
+
+      - date:           Thu 03/11
+        topics:         ""
+        items:
+          - name:       Presentations 04
+            link:       presentation04.html
+      
+      - date:           Sat 03/13
+        topics:         Individual Reflection
+        assignment:     Writing 06
+      
+      - date:           Sun 03/14
+        topics:         Group Work
+        assignment:     Progress 02
+
+- name:     "Project 02"
+  days:
+      - date:           Tue 03/16
+        topics:         Hackathon
+
+      - date:           Thu 03/18
+        topics:         Presentations
+        assignment:     Project 02
+
+- name:     "Book 03: The Cathedral and the Bazaar"
+
+- name:     "History, Manifesto"
+  days:
+      - date:           Tue 03/23
+        topics:         "A Brief History of Hackerdom, The Cathedral and the Bazaar"
+        assignment:     Reading 07
+
+      - date:           Thu 03/25
+        topics:         ""
+        items:
+          - name:       Presentations 05
+            link:       presentation05.html
+      
+      - date:           Sat 03/26
+        topics:         Individual Reflection
+        assignment:     Writing 07
+
+- name:     Customs, Culture
+  days:
+      - date:           Tue 03/30
+        topics:        "Homesteading the Noosphere"
+        assignment:     Reading 08
+      
+      - date:           Thu 04/01
+        topics:         ""
+        items:
+          - name:       Presentations 06
+            link:       presentation06.html
+
+      - date:           Sat 04/03
+        topics:         Individual Reflection
+        assignment:     Writing 08
+      
+      - date:           Mon 04/05
+        topics:         Group Work
+        assignment:     Proposal 03
+
+
+- name:     Economics, Sustainability 
+  days:
+      - date:           Tue 04/06
+        topics:         "The Magic Cauldron"
+        assignment:     Reading 09
+
+      - date:           Thu 04/08
+        topics:         ""
+        items:
+          - name:       Presentations 07
+            link:       presentation07.html
+      
+      - date:           Sat 04/10
+        topics:         Individual Reflection
+        assignment:     Writing 09
+      
+      - date:           Sun 04/11
+        topics:         Group Work
+        assignment:     Progress 03
+
+- name:     "Project 03"
+  days:
+      - date:           Tue 04/13
+        topics:         Hackathon
+
+      - date:           Thu 04/15
+        topics:         Presentations
+        assignment:     Project 03
+
+- name:     "Book 04: Just for Fun"
+
+- name:     "Birth of a Nerd / OS"
+  days:
+      - date:           Tue 04/20
+        topics:         "Birth of a Nerd, Birth of an Operating System"
+        assignment:     Reading 10
+
+      - date:           Thu 04/22
+        topics:         ""
+        items:
+          - name:       Presentations 08
+            link:       presentation08.html
+      
+      - date:           Sat 04/24
+        topics:         Individual Reflection
+        assignment:     Writing 10
+
+- name:     "Linux Revolution"
+  days:
+      - date:           Tue 04/27
+        topics:         "King of the Ball"
+        assignment:     Reading 11
+
+      - date:           Thu 04/29
+        topics:         ""
+        items:
+          - name:       Presentations 09
+            link:       presentation09.html
+      
+      - date:           Sat 05/01
+        topics:         Individual Reflection
+        assignment:     Writing 11
+      
+      - date:           Sun 05/02
+        topics:         Group Work
+        assignment:     Proposal 04
+
+- name:     "Revolution OS"
+  days:
+      - date:           Tue 05/04
+        topics:         "Revolution OS"
+      
+      - date:           Thu 05/06
+        topics:         "Hackathon"
+      
+      - date:           Sun 05/09
+        topics:         Group Work
+        assignment:     Progress 04
+
+- name:     "Project 04"
+  days:
+      - date:           Tue 05/11
+        topics:         Presentations
+        assignment:     Project 04

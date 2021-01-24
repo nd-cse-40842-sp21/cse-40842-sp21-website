@@ -1,0 +1,494 @@
+title:      Hackers in the Bazaar
+icon:       fa-code
+navigation:
+    - name: "Logistics"
+      link: "#logistics"
+      icon: "fa-cogs"
+    - name: "Schedule"
+      link: "#schedule"
+      icon: "fa-calendar"
+    - name: "Requirements"
+      link: "#Requirements"
+      icon: "fa-balance-scale"
+    - name: "Resources"
+      link: "#resources"
+      icon: "fa-external-link"
+internal:
+external:
+    schedule:   'static/yaml/schedule.yaml'
+body:       |
+
+    <img src="static/img/books.jpg" class="pull-right" style="margin-left: 10px;"/>
+
+    <div class="row" markdown="1">
+
+    **CSE 40842** is a [Computer Science and Engineering] elective course at
+    the [University of Notre Dame] that explores the idea of a "hacker" and the
+    practice of participating in the open source "bazaar". To examine the
+    history and culture of hackers, we will read, discuss, and reflect on books
+    such as [Hackers: Heroes of the Computer Revolution], [Hackers & Painters],
+    [The Cathedral and the Bazaar], and [Just For Fun].  Additionally, students
+    will apply the ideas and concepts explored in these books by contributing
+    to different open source projects.  Finally, students will develop projects
+    of their own design by employing the open source development methodology.
+
+    Upon successful completion of this course, students will be able to:
+
+    1. **Discuss** the history and impact of the [Hacker Culture] and [Hacker
+    Ethic] on the technology community.
+
+    2. **Contribute** to open source projects in a productive and effective
+    manner.
+
+    3. **Construct** software artifacts in a collaborate group environment.
+
+    [Computer Science and Engineering]:     http://cse.nd.edu
+    [University of Notre Dame]:             http://www.nd.edu
+    [Hackers: Heroes of the Computer Revolution]: https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution
+    [Hackers & Painters]:                   https://en.wikipedia.org/wiki/Hackers_%26_Painters
+    [The Cathedral and the Bazaar]:         https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+    [Just For Fun]:                         https://en.wikipedia.org/wiki/Just_for_Fun
+    [Hacker Culture]:                       https://en.wikipedia.org/wiki/Hacker_culture
+    [Hacker Ethic]:                         https://en.wikipedia.org/wiki/Hacker_ethic
+
+    </div>
+
+    <div class="row">
+        <div class="page-header">
+            <h2 id="logistics"><i class="fa fa-cogs"></i> Logistics</h2>
+        </div>
+    </div>
+
+    <div class="row">
+    <div class="col-md-6">
+        <h3>Class Information</h3>
+        <dl>
+            <dt><i class="fa fa-clock-o"></i> Lecture</dt>
+            <dd><strong>T/TH</strong> 9:35 AM - 10:50 AM</dd>
+
+            <dt><i class="fa fa-home"></i> Location</dt>
+            <dd>DeBartolo Hall 119</dd>
+
+            <dt><i class="fa fa-envelope"></i> Mailing List (Class)</dt>
+            <dd><a href="mailto:sp21-cse-40842-01-group@nd.edu">sp21-cse-40842-01-group@nd.edu</a></dd>
+
+            <dt><i class="fa fa-slack"></i> Slack</dt>
+            <dd><a href="https://nd-cse.slack.com/messages/cse-40842-sp21/">#cse-40842-sp21</a></dd>
+
+            <dt><i class="fa fa-github"></i> GitHub</dt>
+            <dd><a href="https://www.github.com/nd-cse-40842-sp21/">nd-cse-40842-sp21</a></dd>
+
+            <dt><i class="fa fa-rss"></i> Blogs</dt>
+            <dd><a href="rss.xml">Planet RSS</a>, <a href="blogs.html">Blog List</a></dd>
+        </dl>
+    </div>
+
+    <div class="col-md-6">
+        <h3>Instructor</h3>
+
+        <dl>
+            <dt><i class="fa fa-user"></i> Instructor</dt>
+            <dd><a href="http://www3.nd.edu/~pbui/">Peter Bui</a> (<a href="mailto:pbui@nd.edu">pbui@nd.edu</a>)</dd>
+
+            <dt><i class="fa fa-life-ring"></i> Office Hours (In-Person)</dt>
+            <dd><strong>M/W/F</strong> 2:00 PM - 3:30 PM, and by <strong>appointment</strong></dd>
+            
+            <dt><i class="fa fa-slack"></i> Office Hours (Online)</dt>
+            <dd><strong>T/TH</strong> 2:00 PM - 3:30 PM, and by <strong>appointment</strong></dd>
+
+            <dt><i class="fa fa-briefcase"></i> Office Location</dt>
+            <dd>Cushing Hall 326D</dd>
+        </dl>
+    </div>
+
+
+    <div class="col-md-6">
+      <div class="alert alert-info">
+            <h4><i class="fa fa-question"></i> Help Protocol</h4>
+            <ol class="list-inline">
+                <li><em><i class="fa fa-lightbulb-o"></i> Think</em></li>
+                <li><small><i class="fa fa-arrow-right"></i></small></li>
+                <li><strong><i class="fa fa-slack"></i> Slack</strong></li>
+                <li><small><i class="fa fa-arrow-right"></i></small></li>
+                <li><em><i class="fa fa-lightbulb-o"></i> Think</em></li>
+                <li><small><i class="fa fa-arrow-right"></i></small></li>
+                <li><strong><i class="fa fa-envelope"></i> Email</strong></li>
+                <li><small><i class="fa fa-arrow-right"></i></small></li>
+                <li><em><i class="fa fa-lightbulb-o"></i> Think</em></li>
+                <li><small><i class="fa fa-arrow-right"></i></small></li>
+                <li><strong><i class="fa fa-briefcase"></i> Office</strong></li>
+            </ol>
+      </div>
+    </div>
+
+    </div>
+
+    <div class="row">
+        <div class="page-header">
+            <h2 id="schedule"><i class="fa fa-calendar"></i> Schedule</h2>
+        </div>
+    </div>
+
+    <style>
+    table.schedule td.unit {
+        background-color: #fff;
+        border-right: 2px solid #ddd;
+        text-align: right;
+        width: 175px;
+        vertical-align: middle;
+    }
+    </style>
+
+    <div class="row">
+        <table class="table condensed table-striped schedule">
+            <thead>
+                <tr>
+                    <th class="text-center">Unit</th>
+                    <th class="text-center" style="width: 100px;">Date</th>
+                    <th class="text-center">Topics</th>
+                    <th class="text-center" style="width: 125px;">Assignments</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                {% for theme in page.external['schedule'] %}
+                {% if 'break' in theme['name'].lower() or theme.get('days', None) is None %}
+                  <tr>
+                  <td colspan="4" class="text-center text-strong" style="border-top: 2px solid #ddd; border-bottom: 2px solid #ddd; padding: 4px;">{{ theme['name'] }}</td>
+                  </tr>
+                  {% continue %}
+                {% end %}
+
+                {% for index, day in enumerate(theme['days']) %}
+                <tr>
+                {% if index == 0 %}
+                    <td rowspan="{{ len(theme['days']) }}" class="text-strong text-primary text-center unit">{{ theme['name'] }}</td>
+                {% end %}
+                    <td class="text-center text-strong"><tt>{{ day['date'] }}</tt></td>
+                    <td class="text-strong">
+                    {% if 'Presentations' in day.get('topics', '') or 'Break' in day.get('topics', '') or day.get('topics', '').startswith('Group') or day.get('assignment', '').startswith('Writing') %}
+                    <i class="text-muted">{{ day.get('topics', '') }}</i>
+                    {% else %}
+                    {{ day.get('topics', '') }}
+                    {% end %}
+                    {% for item in day.get('items', []) %}
+                    {% if item['name'].lower().startswith('presentations') %}
+                      {% set item['label'] = 'danger' %}
+                    {% elif item['name'].lower().startswith('panopto') %}
+                      {% set item['label'] = 'info' %}
+                    {% else %}
+                      {% set item['label'] = 'default' %}
+                    {% end %}
+                    {% if 'link' in item %}
+                      <a class="label label-{{ item['label'] }}" href="{{ item['link'] }}">{{ item['name'] }}</a>
+                    {% else %}
+                      <span class="label label-{{ item['label'] }}">{{ item['name'] }}</span>
+                    {% end %}
+                    {% end %}
+                    </td>
+                    <td class="text-center text-strong">
+                    {% set assignment = day.get('assignment') %}
+                    {% if assignment %}
+                    {% set assignment_id = ''.join(assignment.lower().split()) %}
+                    {% if assignment_id.startswith('reading') %}
+                      {% set assignment_label = 'primary' %}
+                    {% elif assignment_id.startswith('writing') %}
+                      {% set assignment_label = 'caution' %}
+                    {% elif assignment_id.startswith('presentation') %}
+                      {% set assignment_label = 'danger' %}
+                    {% else %}
+                      {% set assignment_label = 'success' %}
+                    {% end %}
+                      <a href="{{ assignment_id }}.html" class="label label-{{ assignment_label }}">{{ assignment }}</a>
+                    {% end %}
+                    </td>
+                </tr>
+                {% end %}
+                {% end %}
+
+            </tbody>
+        </table>
+    </div>
+
+    <div class="row">
+        <div class="page-header">
+            <h2 id="Requirements"><i class="fa fa-balance-scale"></i> Requirements</h2>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+        <h3>Coursework</h3>
+        <table class="table table-condensed table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th class="text-center">Component</th>
+                    <th class="text-center">Points</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span class="label label-primary">Readings</span> Weekly reading assignments and corresponding writing prompts.</td>
+                    <td class="text-center">10 &times; 5</td>
+                </tr>
+                <tr>
+                    <td><span class="label label-caution">Projects</span> Periodic group projects.</td>
+                    <td class="text-center">4 &times; 45</td>
+                </tr>
+                <tr>
+                    <td><span class="label label-danger">Presentation</span> Individual presentations.</td>
+                    <td class="text-center">2 &times; 25</td>
+                </tr>
+                <tr>
+                    <td><span class="label label-success">Participation</span> Regular class attendation and contribution to course community.</td>
+                    <td class="text-center">20</td>
+                </tr>
+                <tr>
+                    <td class="text-strong text-right">Total</td>
+                    <td class="text-strong text-center">300</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <div class="col-md-6">
+        <h3>Grading</h3>
+        <table class="table table-condensed table-bordered">
+            <thead>
+                <tr>
+                    <th class="text-center">Grade</th>
+                    <th class="text-center">Points</th>
+                    <th class="text-center">Grade</th>
+                    <th class="text-center">Points</th>
+                    <th class="text-center">Grade</th>
+                    <th class="text-center">Points</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="success">
+                    <td></td>
+                    <td></td>
+                    <td class="text-center text-strong">A</td>
+                    <td class="text-center">285-300</td>
+                    <td class="text-center text-strong">A-</td>
+                    <td class="text-center">270-284</td>
+                </tr>
+                <tr class="info">
+                    <td class="text-center text-strong">B+</td>
+                    <td class="text-center">260-269</td>
+                    <td class="text-center text-strong">B</td>
+                    <td class="text-center">250-259</td>
+                    <td class="text-center text-strong">B-</td>
+                    <td class="text-center">240-249</td>
+                </tr>
+                <tr class="warning">
+                    <td class="text-center text-strong">C+</td>
+                    <td class="text-center">230-239</td>
+                    <td class="text-center text-strong">C</td>
+                    <td class="text-center">220-229</td>
+                    <td class="text-center text-strong">C-</td>
+                    <td class="text-center">210-219</td>
+                </tr>
+                <tr class="danger">
+                    <td class="text-center text-strong">D</td>
+                    <td class="text-center">180-209</td>
+                    <td class="text-center text-strong">F</td>
+                    <td class="text-center">0-179</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="alert alert-info">
+                <h4><i class="fa fa-calendar"></i> Due Dates</h4>
+                <p>
+                <ul>
+                <li>All <b>Readings</b> are due at <b>noon Saturday</b> of the assigned week.</li>
+                <li>All <b>Proposals</b> are due at <b>noon Sunday</b> of the assigned week.</li>
+                <li>All <b>Progress Reports</b> are due at <b>noon Sunday</b> of the assigned week.</li>
+                <li>All <b>Projects</b> are due when they are <b>presented</b> in class.</li>
+                </ul>
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-12">
+          <h3>Policies</h3>
+          <div class="row">
+              <div class="col-md-4">
+              <h4>Participation</h4>
+              <p>
+              Students are expected to attend and contribute regularly in class. This
+              means answering questions in class, participating in discussions, and
+              helping other students.
+              </p>
+              <p>
+              Foreseeable absences should be discussed with the instructor ahead of time.
+              </p>
+              </div>
+              <div class="col-md-4">
+              <h4>Community</h4>
+              <p>
+              Recalling one of the tenets of the <a href="https://en.wikipedia.org/wiki/Hacker_ethic">Hacker Ethic</a>:
+              </p>
+              <blockquote>
+              Hackers should be judged by their hacking, not criteria such as
+              degrees, age, race, sex, or position.
+              </blockquote>
+              <p>
+              Students are expected to be respectful of their fellow classmates
+              and the instructional staff.
+              </p>
+              </div>
+              <div class="col-md-4">
+              <h4>Blog</h4>
+              <p>
+              All responses to the <b>Readings</b> should be posted to each
+              student's individual blog.  Choice of blog platform is up to each
+              student, but the student must provide a valid <b>RSS</b> or
+              <b>ATOM</b> feed to their blog at the beginning of the semester
+              for easy syndication and monitoring.
+              </p>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col-md-4">
+              <h4>Late Work</h4>
+              <p>
+              In the case of a serious illness or other excused absence, as defined by
+              university policies, coursework submissions will be accepted late by the
+              same number of days as the excused absence.
+              </p>
+              <p>
+              Otherwise, there is an automatic penalty of <b>25% late penalty</b> for
+              assignments turned in <b>12 hours</b> pass the specified deadline.
+              </p>
+              </div>
+              <div class="col-md-4">
+              <h4>Academic Honesty</h4>
+              <p>
+              All work that you submit must be your own. Collaboration is encouraged
+              but must be disclosed by all parties. Print or online resources are
+              allowed, but must be disclosed. However, you may not look at solutions
+              from other current or past students, or any other source.
+              </p>
+              </div>
+              <div class="col-md-4">
+              <h4>Students with Disabilities</h4>
+              <p>
+              Any student who has a documented disability and is registered with
+              Disability Services should speak with the professor as soon as possible
+              regarding accommodations. Students who are not registered should contact
+              the <a href="http://disabilityservices.nd.edu/">Office of Disabilities</a>.
+              </p>
+              </div>
+          </div>
+      </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+            <div class="alert alert-warning">
+            <h4><i class="fa fa-medkit"></i> Health and Safety Protocols</h4>
+            <p>In this class, as elsewhere on campus, <b>students must comply with
+            all University health and safety protocols</b>, including:</p>
+            <p>
+            <ul>
+            <li>Face masks that completely cover the nose and mouth will be
+            worn by all students and instructors.</li>
+
+            <li>Physical distancing will be maintained in all instructional spaces.</li>
+
+            <li>Students will sit in assigned seats throughout the semester, which
+            will be documented by faculty for purposes of any needed contact
+            tracing.</li>
+
+            <li>Protocols for staged entry to and exit from classrooms and
+            instructional spaces will be followed.</li>
+            </ul>
+            </p>
+
+            <p><b>We are part of a community of learning in which compassionate
+            care for one another is part of our spiritual and social charter</b>.
+            Consequently, compliance with these protocols is an expectation for
+            everyone enrolled in this course. If a student refuses to comply
+            with the University’s health and safety protocols, the student must
+            leave the classroom and will earn an unexcused absence for the
+            class period and any associated assignments/assessments for the
+            day. Persistent deviation from expected health and safety
+            guidelines may be considered a violation of the University’s <a
+            href="https://dulac.nd.edu/community-standards/standards/">"Standards
+            of Conduct,”</a> as articulated in <a href="https://dulac.nd.edu/">du Lac: A
+            Guide for Student Life</a>, and will be referred accordingly.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="page-header">
+            <h2 id="resources"><i class="fa fa-external-link"></i> Resources</h2>
+        </div>
+    </div>
+
+    <div class="row" markdown="1">
+
+      We will be reading the following books this semester:
+
+      <div class="col-md-6" markdown="1">
+          <div class="thumbnail">
+            <img src="static/img/hackers-heroes.jpg" width="125px">
+              <div class="caption">
+              <h4>Hackers: Heroes of the Computer Revolution</h4>
+              <p>Steven Levy</p>
+              </div>
+          </div>
+      </div>
+
+      <div class="col-md-6" markdown="1">
+          <div class="thumbnail">
+            <img src="static/img/hackers-painters.jpg" width="125px">
+              <div class="caption">
+              <h4>Hackers & Painters: Big Ideas from the Computer Age</h4>
+              <p>Paul Graham
+              <a href="http://www.paulgraham.com/articles.html" class="label label-primary pull-right">Online Compilation</a>
+              </p>
+              </div>
+          </div>
+      </div>
+
+      <div class="col-md-6" markdown="1">
+          <div class="thumbnail">
+            <img src="static/img/cathedral.jpg" width="125px">
+              <div class="caption">
+              <h4>The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary</h4>
+              <p>Eric Raymond
+              <a href="http://www.catb.org/~esr/writings/cathedral-bazaar/" class="label label-primary pull-right">Online Compilation</a>
+              </p>
+              </div>
+          </div>
+      </div>
+
+      <div class="col-md-6" markdown="1">
+          <div class="thumbnail">
+            <img src="static/img/justforfun.jpg" width="125px">
+              <div class="caption">
+              <h4>Just For Fun: The Story of an Accidental Revolutionary</h4>
+              <p>Linus Torvalds and David Diamond</p>
+              </div>
+          </div>
+      </div>
+
+      <div class="col-md-12" markdown="1">
+        <div class="alert alert-success" markdown="1">
+        <h4><i class="fa fa-book"></i> Online Texts</h4>
+        <p>Some of the books can be found <b>legally</b> online.  Those resources are linked above.</p>
+        </div>
+      </div>
+
+    </div>
