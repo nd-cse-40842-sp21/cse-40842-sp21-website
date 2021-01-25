@@ -478,7 +478,10 @@ body:       |
             <img src="static/img/justforfun.jpg" width="125px">
               <div class="caption">
               <h4>Just For Fun: The Story of an Accidental Revolutionary</h4>
-              <p>Linus Torvalds and David Diamond</p>
+              <p>Linus Torvalds and David Diamond
+              <a href="https://archive.org/details/justforfun00linu/page/n295/mode/2up" class="label label-primary pull-right">Online Archive</a>
+              </p>
+              </p>
               </div>
           </div>
       </div>
