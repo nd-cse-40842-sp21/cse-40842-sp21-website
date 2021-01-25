@@ -228,11 +228,11 @@ body:       |
             </thead>
             <tbody>
                 <tr>
-                    <td><span class="label label-primary">Readings</span> Weekly reading assignments and corresponding writing prompts.</td>
+                    <td><span class="label label-primary">Readings</span> Weekly reading assignments and corresponding <span class="label label-caution">Writings</span>.</td>
                     <td class="text-center">10 &times; 6</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-caution">Projects</span> Collaborative group projects.</td>
+                    <td><span class="label label-success">Projects</span> Collaborative group projects.</td>
                     <td class="text-center">45, 45, 60</td>
                 </tr>
                 <tr>
@@ -240,7 +240,7 @@ body:       |
                     <td class="text-center">2 &times; 30</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-success">Participation</span> Regular class attendation and contribution to course community.</td>
+                    <td><span class="label label-info">Participation</span> Regular class attendation and contribution to course community.</td>
                     <td class="text-center">30</td>
                 </tr>
                 <tr>
