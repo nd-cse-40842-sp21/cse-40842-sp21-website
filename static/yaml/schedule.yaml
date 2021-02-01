@@ -5,6 +5,11 @@
       - date:           Thu 02/04
         topics:         "Cambridge: The Fifties and Sixties"
         assignment:     Reading 01
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1bIbO-Z4jSujih-J-KAIcqrj1YqXvXVd-s2Sh4T70pUg/edit?usp=sharing
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1YNH_73KTBNFuMvA50rhTVsJFpXDTE4khtQDSMfrPaMM/edit?usp=sharing
 
       - date:           Sat 02/06
         topics:         Individual Reflection
