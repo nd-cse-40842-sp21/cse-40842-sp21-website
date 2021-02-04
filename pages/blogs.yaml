@@ -1,0 +1,26 @@
+title:      Blogs
+icon:       fa-rss
+navigation: []
+internal:
+external:
+    blogs:  static/yaml/blogs.yaml
+body:       |
+
+    <div class="row" markdown="1">
+    <table class="table condensed table-striped">
+      <thead>
+        <tr>
+          <th>NetID</th>
+          <th>URL</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for blog in page.external['blogs'] or [] %}
+        <tr>
+          <td>{{ blog['netid'] }}</td>
+          <td><a href="{{ blog['url'] }}">{{ blog['url'] }}</a></td>
+        </tr>
+      {% end %}
+      </tbody>
+    </table>
+    </div>
