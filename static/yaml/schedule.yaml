@@ -20,6 +20,9 @@
       - date:           Tue 02/09
         topics:         "Northern California: The Seventies"
         assignment:     Reading 02
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1jvFAHdnYIMfWchqcDCrZWEImeh3adJomj6ZNRDhes_4/edit?usp=sharing
 
       - date:           Thu 02/11
         topics:         ""
