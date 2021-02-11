@@ -27,8 +27,18 @@
       - date:           Thu 02/11
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       Custom Computers
+            link:       https://docs.google.com/presentation/d/1bJE8gS_h8F3C2J2Jub25-Ik2AtCGF2EMeNpbzMEY7yo/edit?usp=sharing
+            type:       presentation
+          - name:       Liquid and Air Cooling
+            link:       https://docs.google.com/presentation/d/13nj0ZjpCrO-yhxIgppZMgcoJ9sR5EvKcJVIg1yrx9a8/edit?usp=sharing
+            type:       presentation
+          - name:       Code Golfing
+            link:       https://docs.google.com/presentation/d/1bh5vd7ERRVjnFmHckQwXLMaw5SYjOwsAh_j4ulzILSs/edit?usp=sharing
+            type:       presentation
+          - name:       Margaret Hamilton
+            link:       https://docs.google.com/presentation/d/1DeR8HDH2SM_CarhPD0xH8baLGKr25yt-DoW4yb9UbDw/edit?usp=sharing
+            type:       presentation
         assignment:     Proposal 01
 
       - date:           Sat 02/13

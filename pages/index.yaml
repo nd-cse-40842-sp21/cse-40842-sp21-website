@@ -175,7 +175,7 @@ body:       |
                     {{ day.get('topics', '') }}
                     {% end %}
                     {% for item in day.get('items', []) %}
-                    {% if item['name'].lower().startswith('presentations') %}
+                    {% if item['name'].lower().startswith('presentations') or item.get('type', None) == 'presentation' %}
                       {% set item['label'] = 'danger' %}
                     {% elif item['name'].lower().startswith('panopto') %}
                       {% set item['label'] = 'info' %}
