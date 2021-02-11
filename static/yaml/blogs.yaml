@@ -1,10 +1,58 @@
+- feed: https://link-hackers-in-the-bazaar.blogspot.com/feeds/posts/default?alt=rss
+  netid: clink4
+  url: https://link-hackers-in-the-bazaar.blogspot.com/
+- feed: https://hackerscmurillo.wordpress.com/feed/
+  netid: cmurillo
+  url: https://hackerscmurillo.wordpress.com/
+- feed: https://scribbles-from-christina.blogspot.com/atom.xml
+  netid: cyoun
+  url: https://scribbles-from-christina.blogspot.com/
+- feed: https://hackers-not-in-the-cathedral.blogspot.com/feeds/posts/default
+  netid: elopez7
+  url: https://hackers-not-in-the-cathedral.blogspot.com/
 - feed: https://virtualmemory.squarespace.com/blog?format=rss
   netid: esmith36
   url: https://virtualmemory.squarespace.com/
+- feed: https://ginglis.me/feed.xml
+  netid: ginglis
+  url: https://ginglis.me/
+- feed: https://juliusboateng.com/feed.xml
+  netid: jboateng
+  url: https://juliusboateng.com/blog.html
+- feed: https://captainhook.medium.com/
+  netid: jhoeksem
+  url: https://captainhook.medium.com/
 - feed: https://jhracho-hackers-in-the-bazaar.blogspot.com/feeds/posts/default
   netid: jhracho
   url: https://jhracho-hackers-in-the-bazaar.blogspot.com/
+- feed: https://jeongseoksuh.wordpress.com/feed/
+  netid: jsuh3
+  url: https://jeongseoksuh.wordpress.com/
 - feed: https://www.michaeleisemann.com/feed.xml
   netid: meiseman
   url: https://www.michaeleisemann.com/
+- feed: https://pnutzh4x0rdonatedtopokimane.wordpress.com/feed/
+  netid: msicili1
+  url: https://pnutzh4x0rdonatedtopokimane.wordpress.com/
+- feed: https://theartofhackingthroughlife.blogspot.com/feeds/posts/default
+  netid: mzachlin
+  url: 'https://theartofhackingthroughlife.blogspot.com/ '
+- feed: https://nuolong.github.io/hacker-blog/feed
+  netid: nmcshea
+  url: https://nuolong.github.io/hacker-blog/
+- feed: https://teampepeeja.wordpress.com/feed/
+  netid: pgierl
+  url: https://teampepeeja.wordpress.com/
+- feed: https://gigachad.com/feed.xml
+  netid: sbattali
+  url: https://gigachad.com
+- feed: https://www.hannon.dev/hackers-bazaar/feed.xml
+  netid: shannon3
+  url: https://www.hannon.dev/hackers-bazaar/
+- feed: https://slitchfield.wordpress.com/feed/
+  netid: slitchfi
+  url: https://slitchfield.wordpress.com/
+- feed: https://yeonsthoughts.wordpress.com/blog/feed
+  netid: ykim22
+  url: https://yeonsthoughts.wordpress.com/blog
 
