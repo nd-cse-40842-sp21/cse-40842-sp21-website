@@ -50,6 +50,9 @@
       - date:           Tue 02/16
         topics:         "The Sierras: The Eighties"
         assignment:     Reading 03
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1L8pU7umZ3yj16VYxhFN2CJyileeAmf_IcwAffEcdEfE/edit?usp=sharing
 
       - date:           Thu 02/18
         topics:         ""
