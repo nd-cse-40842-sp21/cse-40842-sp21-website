@@ -57,8 +57,21 @@
       - date:           Thu 02/18
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       EVE Server tech
+            link:       https://docs.google.com/presentation/d/1kvrCLk8DFLfdOoozzDEMu1npFLFxYifdzg3s3w2bGLc/edit?usp=sharing
+            type:       presentation
+          - name:       Graphics
+            link:       https://drive.google.com/file/d/17wrllQkbt4OUXUSTMFHRO_qlu-eR7shy/view?usp=sharing
+            type:       presentation
+          - name:       Kevin Mitnick
+            link:       https://docs.google.com/presentation/d/1KhObczGdAS6ftqmmyX11iDj4imm4pHWbHvDBveXbZeY/edit?usp=sharing
+            type:       presentation
+          - name:       Anonymous
+            link:       https://docs.google.com/presentation/d/13uG4uGKeCTrq0i5LYkIxfwBQJ_Mw59gOgILV941IuQg/edit?usp=sharing
+            type:       presentation
+          - name:       Piracy
+            link:       https://docs.google.com/presentation/d/1sbhdEpy0baCA6vxyd1bvn-msVzo3w66WsBUHX4-z3jQ/edit?usp=sharing
+            type:       presentation
         assignment:     Progress 01
 
       - date:           Sat 02/20
