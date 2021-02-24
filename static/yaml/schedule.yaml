@@ -93,10 +93,10 @@
   days:
       - date:           Tue 03/02
         topics:         "Mini-Break"
-        assignment:     Reading 04
 
       - date:           Thu 03/04
         topics:         "Why Nerds Are Unpopular, Hackers and Painters, What You Can't Say, Good Bad Attitude"
+        assignment:     Reading 04
 
       - date:           Sat 03/06
         topics:         Individual Reflection
