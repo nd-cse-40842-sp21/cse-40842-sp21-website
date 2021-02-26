@@ -1,0 +1,26 @@
+title:      "Project 01: Retro Computing (Gallery)"
+icon:       fa-image
+navigation: []
+internal:
+external:
+    projects:   'static/yaml/project01.yaml'
+body:       |
+
+  <div class="row">
+      {% for project in page.external['projects'] %}
+      <div class="col-md-4 thumbmail">
+        <img src="{{ project['photo'] }}" class="img-responsive">
+        <div style="padding: 5px;">
+          <div class="btn-toolbar pull-right">
+            <a href="{{ project['slides'] }}" class="btn btn-primary btn-sm"><i class="fa fa-slideshare"></i></a>
+            <a href="{{ project['github'] }}" class="btn btn-primary btn-sm"><i class="fa fa-github"></i></a>
+          </div>
+          <dl>
+          <dt>{{ project['name'] }}</dt>
+          <dd>{{ project['members'] }}</dd>
+          </dl>
+        </div>
+      </div>
+      {% end %}
+  </div>
+

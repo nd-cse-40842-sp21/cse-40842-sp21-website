@@ -1,0 +1,41 @@
+- name: Retro Tetris
+  members: mzachlin, clink4
+  slides: https://docs.google.com/presentation/d/1S3SDXN2cE63FfNSTckLFi5hTl4aXl8kLKXjg4PowNh4/edit?usp=sharing
+  github: https://github.com/mzachlin/tetris
+  photo: https://yld.me/raw/bbOb.jpg
+
+- name: Gridlocked
+  members: jboateng, esmith36, shannon3
+  slides: https://docs.google.com/presentation/d/1kHIhL2iNJMxI14-4BtqPQMDOC8FOjzzYhfhoERCERok/edit?usp=sharing
+  github: https://github.com/JuliusBoateng/hackers_secret_lock
+  photo: https://yld.me/raw/aHuP.jpg
+
+- name: Breaking Into Retro Computing
+  members: jsuh3, cyoun
+  slides: https://docs.google.com/presentation/d/13bOrjbZOmMJw5wFYSnRdjgQ3J-CYXnNyngs7LQu4_uM/edit?usp=sharing
+  github: https://github.com/Hackers-in-the-Bazaar/project01
+  photo: https://yld.me/raw/cVTP.jpg
+
+- name: Sabotage on the Gameboy
+  members: meiseman, ginglis
+  slides: https://docs.google.com/presentation/d/1z0GKOjPpXE0Z37CkWmeoCzNIc13cVir9K3kU7dHl23o/edit?usp=sharing
+  github: https://github.com/AndroidKitKat/para-gameboy
+  photo: https://yld.me/raw/bORo.jpg
+
+- name: Spacewar! Into the Multiverse
+  members: pgierl, nmcshea, ykim22
+  slides: https://docs.google.com/presentation/d/1CRCoHG4rOLrVogvbwCOULQumt_CsQmFbH8swzI_e3aA/edit?usp=sharing
+  github: https://github.com/itspaulyg/spacewar-into-the-multiverse
+  photo: https://yld.me/raw/eDlX.jpg
+
+- name: Zombie Maze
+  members: jhoeksem, cmurillo, slitchfi
+  slides: https://docs.google.com/presentation/d/1zQox7WqxVIyWJomeYKBG7wXFk-iG8SV7W1qbO79FDNo/edit?usp=sharing
+  github: https://github.com/jhoeksem/zombie_maze
+  photo: https://yld.me/raw/d9t8.jpg
+
+- name: Gorillas
+  members: sbattali, elopez7, msicili1
+  slides: https://docs.google.com/presentation/d/1hBeRSwvxn-0ds_hhAnfEDg8cwmp1mgpQtJzFGorAfl0/edit?usp=sharing
+  github: https://github.com/sambattalio/gorillas
+  photo: https://yld.me/raw/aIFL.jpg

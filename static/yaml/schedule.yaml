@@ -86,6 +86,9 @@
       - date:           Thu 02/25
         topics:         Presentations
         assignment:     Project 01
+        items:
+          - name:       Gallery
+            link:       gallery01.html
 
 - name:     "Book 02: Hackers & Painters"
 
