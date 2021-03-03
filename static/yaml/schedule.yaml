@@ -100,6 +100,9 @@
       - date:           Thu 03/04
         topics:         "Why Nerds Are Unpopular, Hackers and Painters, Good Bad Attitude, What You Can't Say"
         assignment:     Reading 04
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1fvJzts6w1NqCwWQZCgXqZgtj62sH0XeHn_r9uBUClqA/edit?usp=sharing
 
       - date:           Sat 03/06
         topics:         Individual Reflection
