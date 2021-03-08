@@ -113,6 +113,9 @@
       - date:           Tue 03/09
         topics:         "Beating the Averages, The Hundred-Year Language, Revenge of the Nerds"
         assignment:     Reading 05
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1TePC-wlSAn34XebCk_MgefTZwYEqRhw5t1AZ_CL3Bkg/edit?usp=sharing
 
       - date:           Thu 03/11
         items:
