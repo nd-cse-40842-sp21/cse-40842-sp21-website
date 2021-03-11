@@ -119,8 +119,18 @@
 
       - date:           Thu 03/11
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       AWS
+            link:       https://docs.google.com/presentation/d/1VACUlZ3m-9w7sut94mCuefF8CCuIKYebP36Wn-YwJNo/edit?usp=sharing
+            type:       presentation
+          - name:       Monopolies
+            link:       https://docs.google.com/presentation/d/1qswRPprLfzxggxwMEQztUl25FawrbpvIBZK542CjzBA/edit#slide=id.p
+            type:       presentation
+          - name:       Golang
+            link:       https://docs.google.com/presentation/d/10IKLmKcsyR-arxrOqteyoHl0GONWFHkcdbtYSNNBaXg/edit?usp=sharing
+            type:       presentation
+          - name:       TypeScript
+            link:       https://docs.google.com/presentation/d/1oi_rLdr8mrmQNApjODkqyiaKAfW4YhaJzv4N8hXbnL0/edit?usp=sharing
+            type:       presentation
         assignment:     Proposal 02
 
       - date:           Sat 03/13
