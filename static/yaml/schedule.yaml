@@ -142,6 +142,9 @@
       - date:           Tue 03/16
         topics:         "The Other Road Ahead, How To Make Wealth, Mind the Gap"
         assignment:     Reading 06
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1qsN0aHQgerYg90-SKCVn9LNB_7M5hDsg_fFjkE9Vcl0/edit?usp=sharing
 
       - date:           Thu 03/18
         topics:         ""
