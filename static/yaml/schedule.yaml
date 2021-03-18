@@ -149,8 +149,18 @@
       - date:           Thu 03/18
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       Containers
+            link:       https://docs.google.com/presentation/d/1r_dwUQc_yslQOPrrVpRNhBFA7G0x1GR08JMSEAuXwhA/edit?usp=sharing
+            type:       presentation
+          - name:       Chess Engines
+            link:       https://docs.google.com/presentation/d/1y2TFP913G1SWWLRQJesZx3ngQIdhy2iMoytJXY79H6E/edit?usp=sharing
+            type:       presentation
+          - name:       Cryptocurrency
+            link:       https://docs.google.com/presentation/d/114srsposrtsW0k8Jk_0nggsC19nZTG2ugs7HajoAWlM/edit?usp=sharing
+            type:       presentation
+          - name:       Virtual Assistants
+            link:       https://docs.google.com/presentation/d/1kn-cFTIB_62_KicyI0hfCny2uGSoij399nT_INzkADQ/edit?usp=sharing
+            type:       presentation
         assignment:     Progress 02
 
       - date:           Sat 03/20
