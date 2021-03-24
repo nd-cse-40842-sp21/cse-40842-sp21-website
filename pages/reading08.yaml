@@ -1,0 +1,63 @@
+title:      "Reading 08: The Noosphere"
+icon:       fa-book
+navigation: []
+internal:
+external:
+body:       |
+
+  <img src="static/img/cathedral.jpg" class="pull-right" style="margin-left: 10px" width="155px">
+
+  ## Readings
+
+  The readings for this week are:
+
+  1. [Homesteading the Noosphere](http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/)
+
+  ## Reflections
+
+  In this essay, [ESR] discusses the culture and customs of the [open source]
+  community:
+
+  > Cultures are adaptive machines. The open-source culture is a response to an
+  identifiable set of drives and pressures. As usual, the culture's adaptation
+  to its circumstances manifests both as conscious ideology and as implicit,
+  unconscious or semi-conscious knowledge. And, as is not uncommon, the
+  unconscious adaptations are partly at odds with the conscious ideology.
+
+  For this upcoming week, you are to consider the following questions as you
+  perform the readings and participate in class:
+
+  1. Considering [ESR]'s analysis of the open source culture and customs, what
+  drives people to participate in open source?  What benefit do they derive in
+  giving away their code?
+
+  2. What do you make of [ESR]'s list of taboos:
+
+        > - There is strong social pressure against forking projects.
+        >
+        > - Distributing changes to a project without the cooperation of the
+        moderators is frowned upon.
+        >
+        > - Removing a person's name from a project history, credits, or maintainer
+        list is absolutely not done without the person's explicit consent.
+
+      Considering open source history, do these ring true?  Are these good
+      taboos or norms for the culture to have or do they violate the spirit of
+      open source?
+
+  3. This semester we've discussed the idea of what a hacker is and whether or
+  not you consider yourself one.  Considering [ESR]'s description of the *gift
+  economy* and the role of **reputation**, do you find these mechanisms and
+  motivations appealing?  Do you view participation in open source as a means
+  of "ego satisfaction" or something more?  What would entice you or motivate
+  you to participate?
+
+  Note, you should not simply list the questions and answer each one directly.
+  Instead, the questions are there to help you brainstorm about the question:
+
+  > What motivates or drives people to contribute to open source? What prevents
+  people from doing so?  What is required to sustain a healthy community?
+
+  [ESR]:                            http://www.catb.org/esr/
+  [The Cathedral and the Bazaar]:   https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+  [open source]:                    https://en.wikipedia.org/wiki/Open-source_model
