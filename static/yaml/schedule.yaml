@@ -175,6 +175,9 @@
       - date:           Thu 03/25
         topics:         Presentations
         assignment:     Project 02
+        items:
+          - name:       Gallery
+            link:       gallery02.html
 
 - name:     "Book 03: The Cathedral and the Bazaar"
 
