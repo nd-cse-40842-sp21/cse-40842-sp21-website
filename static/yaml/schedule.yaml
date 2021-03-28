@@ -186,6 +186,9 @@
       - date:           Tue 03/30
         topics:         "A Brief History of Hackerdom, The Cathedral and the Bazaar"
         assignment:     Reading 07
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1XmsbQjzJpVU01OYl7P5Dm2T9eM4xKR0neSZqD9fjrQU/edit?usp=sharing
 
       - date:           Thu 04/01
         topics:         ""
