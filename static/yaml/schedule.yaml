@@ -193,8 +193,15 @@
       - date:           Thu 04/01
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       Social Impact Open Source
+            link:       https://docs.google.com/presentation/d/1hUof0hD5mTkZcn7mkucPEFPlN2QA8V8DvJW_pBTL5sA/edit?usp=sharing
+            type:       presentation
+          - name:       Apache Flink
+            link:       https://docs.google.com/presentation/d/1JfxeG2PR0UVw-kXREoKqw5_qv18nK6A4hTpUCOYnh8c/edit?usp=sharing
+            type:       presentation
+          - name:       Shotcut
+            link:       https://docs.google.com/presentation/d/1tiiUz4cmgCkXxBt5oSsQriEKoz4lS-iJSjGEYt_JYcc/edit?usp=sharing
+            type:       presentation
 
       - date:           Mon 04/05
         topics:         Individual Reflection
