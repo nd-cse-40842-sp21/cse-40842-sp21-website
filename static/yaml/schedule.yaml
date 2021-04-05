@@ -212,6 +212,9 @@
       - date:           Tue 04/06
         topics:        "Homesteading the Noosphere"
         assignment:     Reading 08
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1LcXDtIzYfdMUrFplvy3BgSbhi7uN1K9shC9ynExrr2Y/edit?usp=sharing
 
       - date:           Thu 04/08
         topics:         ""
