@@ -218,10 +218,16 @@
 
       - date:           Thu 04/08
         topics:         ""
-        items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
         assignment:     Proposal 03
+        items:
+          - name:       FSF
+            link:       https://docs.google.com/presentation/d/1JhtdRH7MPDWnhnA0-Qy1EkJBdWeImDd_URMpKpFTm0c/edit?usp=sharing
+            type:       presentation
+          - name:       IRC
+            link:       https://androidkitkat.github.io/history-of-irc
+            type:       presentation
+          - name:       Fuzzing
+            link:       https://docs.google.com/presentation/d/1aQ81F_nvFZE-YMx890rKNFgLdkq67E0uihOzSnzDsCM/edit?usp=sharing
 
       - date:           Sat 04/10
         topics:         Individual Reflection
