@@ -228,6 +228,7 @@
             type:       presentation
           - name:       Fuzzing
             link:       https://docs.google.com/presentation/d/1aQ81F_nvFZE-YMx890rKNFgLdkq67E0uihOzSnzDsCM/edit?usp=sharing
+            type:       presentation
 
       - date:           Sat 04/10
         topics:         Individual Reflection
@@ -239,6 +240,9 @@
       - date:           Tue 04/13
         topics:         "The Magic Cauldron"
         assignment:     Reading 09
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/16DjyAB_zLChmPOaI-a_Rh9bEQMPAhmiiJo-fmkoadJE/edit?usp=sharing
 
       - date:           Thu 04/15
         topics:         ""
