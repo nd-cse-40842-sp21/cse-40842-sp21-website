@@ -280,7 +280,6 @@
         items:
           - name:       Presentations
             link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
-        assignment:     Progress 03
 
       - date:           Sat 04/24
         topics:         Individual Reflection
@@ -298,6 +297,7 @@
         items:
           - name:       Presentations
             link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+        assignment:     Progress 03
 
       - date:           Sat 05/01
         topics:         Individual Reflection
