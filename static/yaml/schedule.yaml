@@ -247,8 +247,21 @@
       - date:           Thu 04/15
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       Bug Bounties
+            link:       https://docs.google.com/presentation/d/1SdJkWX6xtC-z-MTp46fTPYJ4whfJwd4C6Hqchhwt9_A/edit?usp=sharing
+            type:       presentation
+          - name:       Patreon
+            link:       https://docs.google.com/presentation/d/1K0fxV2EGZR1zOyHCOzffw_YAcpbLg-zfEfYsjqQTnfM/edit?usp=sharing
+            type:       presentation
+          - name:       Wizard 101
+            link:       https://docs.google.com/presentation/d/1beuVJeivI5NWe8zawX4vTOmT7VxSdXtHSmz-DfIcHQE/edit?usp=sharing
+            type:       presentation
+          - name:       Twitch Streams
+            link:       https://docs.google.com/presentation/d/1M4RLwLC8kxO-aqPF8q3gjxs7zYSq7QPujxaCg4SRZM4/edit?usp=sharing
+            type:       presentation
+          - name:       Female e-Sports Streamers
+            link:       https://docs.google.com/presentation/d/1IjfX9cGuJzzhBYoTrARm4GNqnAqf0xFAFmETz8cAS64/edit?usp=sharing
+            type:       presentation
 
       - date:           Sat 04/17
         topics:         Individual Reflection
