@@ -274,6 +274,9 @@
       - date:           Tue 04/20
         topics:         "Birth of a Nerd, Birth of an Operating System"
         assignment:     Reading 10
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1z-nFVTLRvcs9iJiaQ8_NcWIBRX8L_1tuVOdU2oZ8r1s/edit?usp=sharing
 
       - date:           Thu 04/22
         topics:         ""
