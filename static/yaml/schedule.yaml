@@ -304,6 +304,9 @@
       - date:           Tue 04/27
         topics:         "King of the Ball"
         assignment:     Reading 11
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1ursVc0Efg68mbH97DxhEi47TWlzAaMWwcchmehOn3Wo/edit?usp=sharing
 
       - date:           Thu 04/29
         topics:         ""
