@@ -281,8 +281,18 @@
       - date:           Thu 04/22
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       Emacs
+            link:       https://docs.google.com/presentation/d/1HqjSij42n_tPEhlMsxHDRHuHMyBXwU8O68qe3-YoFIM/edit?usp=sharing
+            type:       presentation
+          - name:       MINIX
+            link:       https://docs.google.com/presentation/d/150_NZjaaOVlGTpktl05u2i2MtZ_uZXo0oMBPlKcWgmE/edit?usp=sharing
+            type:       presentation
+          - name:       TempleOS
+            link:       https://docs.google.com/presentation/d/154oZt8S34p19bTheMsstVUCbEshvNJ7Dtccan6J3uOM/edit?usp=sharing
+            type:       presentation
+          - name:       MacOS
+            link:       http://matrix.waifupaste.moe:8000/history-of-macos/#0
+            type:       presentation
 
       - date:           Sat 04/24
         topics:         Individual Reflection
