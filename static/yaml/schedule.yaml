@@ -311,8 +311,21 @@
       - date:           Thu 04/29
         topics:         ""
         items:
-          - name:       Presentations
-            link:       https://docs.google.com/spreadsheets/d/1DXHf1vZFMQX2fIT9BTXyOTfqAUyvP0jPYsW-CVRwAYM/edit?usp=sharing
+          - name:       Cross Compiling
+            link:       https://docs.google.com/presentation/d/1wzILcq6AcrISQFaneL_kU6fRJ70ZRW8b3or12q7sQtI/edit?usp=sharing
+            type:       presentation
+          - name:       AUR
+            link:       https://docs.google.com/presentation/d/1fg16vCI8amvGHtzjXHFMf0zr7YHjWpVAu1p5DfYyN9s/edit?usp=sharing
+            type:       presentation
+          - name:       Homebrew
+            link:       https://docs.google.com/presentation/d/1IXUDVbTfpzn-60hOMiR5Fxc_oXFbvnAMmmTn69hOirI/edit?usp=sharing
+            type:       presentation
+          - name:       Flutter
+            link:       https://docs.google.com/presentation/d/1hinqRLeI-zjfZVECVkJyCW8XBMWthwymFzuiI8DHaZ8/edit?usp=sharing
+            type:       presentation
+          - name:       XML Moral Superiority
+            link:       https://androidkitkat.github.io/xml-moral-superiority/
+            type:       presentation
         assignment:     Progress 03
 
       - date:           Sat 05/01
